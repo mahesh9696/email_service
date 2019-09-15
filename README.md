@@ -97,4 +97,4 @@ query {
 ```
 
 
-[Download Postman APIs Collection](https://raw.githubusercontent.com/mahesh9696/node-easy-notes-app/master/notes.postman_collection.json)
+[Download Postman APIs Collection](https://raw.githubusercontent.com/mahesh9696/node-easy-notes-app/master/Email-service.postman_collection.json)
