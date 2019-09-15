@@ -21,7 +21,7 @@ export default {
                 service: 'Gmail',
                 auth: {
                     user: 'maheshpate12347@gmail.com',
-                    pass: 'M27521673#'
+                    pass: 'M159753#'
                 }
             });
 
