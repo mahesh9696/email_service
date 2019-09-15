@@ -5,6 +5,7 @@ In this application, User can send email, view all emails, view single email and
 
 - Node.js
 - Express.js
+- TypeScript
 - GraphQL
 - Apollo server
 - Sequelize ORM
