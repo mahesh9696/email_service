@@ -36,6 +36,8 @@ Run `gulp build` command
 
 Go to dist folder and Run `sequelize db:migrate`
 
+Rund `node server.js` command
+
 ```
 
 ## API ENDPOINTS
